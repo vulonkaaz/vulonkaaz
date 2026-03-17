@@ -20,6 +20,6 @@ kofi page for donation : https://ko-fi.com/vulonkaaz
 
 website with other contact links and random stuff : https://vulonkaaz.zip/
 
-![gondolabike.gif] ![gondolabike.gif] ![gondolabike.gif] ![gondolabike.gif]
+![gondolabike.gif](gondolabike.gif) ![gondolabike.gif](gondolabike.gif) ![gondolabike.gif](gondolabike.gif) ![gondolabike.gif](gondolabike.gif)
 
-![untitled(2).png]
+![untitled(2).png](untitled(2).png)
